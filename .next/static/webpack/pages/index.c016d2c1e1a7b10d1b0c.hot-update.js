@@ -19,37 +19,37 @@ var _jsxFileName = "C:\\Users\\Master\\Desktop\\CD\\Components\\App.js";
 
 function App() {
   return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-    "class": "mainDiv",
+    className: "mainDiv",
     children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-      "class": "innerDiv",
+      className: "innerDiv",
       children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h2", {
-        children: "LOADING....."
+        children: "Almost there .. Stay tuned"
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 7,
+        lineNumber: 9,
         columnNumber: 3
       }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-        "class": "bar",
+        className: "bar",
         children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-          "class": "mainBar"
+          className: "mainBar"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 9,
+          lineNumber: 12,
           columnNumber: 4
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 8,
+        lineNumber: 11,
         columnNumber: 3
       }, this)]
     }, void 0, true, {
       fileName: _jsxFileName,
-      lineNumber: 6,
+      lineNumber: 8,
       columnNumber: 2
     }, this)
   }, void 0, false, {
     fileName: _jsxFileName,
-    lineNumber: 5,
+    lineNumber: 6,
     columnNumber: 5
   }, this);
 }
@@ -121,4 +121,4 @@ $RefreshReg$(_c, "App");
 /***/ })
 
 })
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vQ29tcG9uZW50cy9BcHAuanMiXSwibmFtZXMiOlsiQXBwIl0sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7Ozs7OztBQUFBOztBQUVBLFNBQVNBLEdBQVQsR0FBZTtBQUNiLHNCQUNFO0FBQUssYUFBTSxTQUFYO0FBQUEsMkJBQ0g7QUFBSyxlQUFNLFVBQVg7QUFBQSw4QkFDQztBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxjQURELGVBRUM7QUFBSyxpQkFBTSxLQUFYO0FBQUEsK0JBQ0M7QUFBSyxtQkFBTTtBQUFYO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFERDtBQUFBO0FBQUE7QUFBQTtBQUFBLGNBRkQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBREc7QUFBQTtBQUFBO0FBQUE7QUFBQSxVQURGO0FBVUQ7O0tBWFFBLEc7QUFhTUEsa0VBQWYiLCJmaWxlIjoic3RhdGljL3dlYnBhY2svcGFnZXMvaW5kZXguMDg4MzY4NTExMGUzZDViZWRjZmYuaG90LXVwZGF0ZS5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBcIi4vQXBwLm1vZHVsZS5jc3NcIjtcclxuXHJcbmZ1bmN0aW9uIEFwcCgpIHtcclxuICByZXR1cm4gKFxyXG4gICAgPGRpdiBjbGFzcz1cIm1haW5EaXZcIj5cclxuXHQ8ZGl2IGNsYXNzPVwiaW5uZXJEaXZcIj5cclxuXHRcdDxoMj5MT0FESU5HLi4uLi48L2gyPlxyXG5cdFx0PGRpdiBjbGFzcz1cImJhclwiPlxyXG5cdFx0XHQ8ZGl2IGNsYXNzPVwibWFpbkJhclwiPjwvZGl2PlxyXG5cdFx0PC9kaXY+XHJcblx0PC9kaXY+XHJcbjwvZGl2PlxyXG4gIClcclxufVxyXG5cclxuZXhwb3J0IGRlZmF1bHQgQXBwXHJcbiJdLCJzb3VyY2VSb290IjoiIn0=
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vQ29tcG9uZW50cy9BcHAuanMiXSwibmFtZXMiOlsiQXBwIl0sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7Ozs7OztBQUFBOztBQUVBLFNBQVNBLEdBQVQsR0FBZTtBQUNiLHNCQUVFO0FBQUssYUFBUyxFQUFDLFNBQWY7QUFBQSwyQkFFSDtBQUFLLGVBQVMsRUFBQyxVQUFmO0FBQUEsOEJBQ0M7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsY0FERCxlQUdDO0FBQUssaUJBQVMsRUFBQyxLQUFmO0FBQUEsK0JBQ0M7QUFBSyxtQkFBUyxFQUFDO0FBQWY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUREO0FBQUE7QUFBQTtBQUFBO0FBQUEsY0FIRDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFGRztBQUFBO0FBQUE7QUFBQTtBQUFBLFVBRkY7QUFhRDs7S0FkUUEsRztBQWdCTUEsa0VBQWYiLCJmaWxlIjoic3RhdGljL3dlYnBhY2svcGFnZXMvaW5kZXguYzAxNmQyYzFlMWE3YjEwZDFiMGMuaG90LXVwZGF0ZS5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBcIi4vQXBwLm1vZHVsZS5jc3NcIjtcclxuXHJcbmZ1bmN0aW9uIEFwcCgpIHtcclxuICByZXR1cm4gKFxyXG4gICAgXHJcbiAgICA8ZGl2IGNsYXNzTmFtZT1cIm1haW5EaXZcIj5cclxuICAgICAgXHJcblx0PGRpdiBjbGFzc05hbWU9XCJpbm5lckRpdlwiPlxyXG4gIDxoMj5BbG1vc3QgdGhlcmUgLi4gU3RheSB0dW5lZDwvaDI+XHJcblxyXG5cdFx0PGRpdiBjbGFzc05hbWU9XCJiYXJcIj5cclxuXHRcdFx0PGRpdiBjbGFzc05hbWU9XCJtYWluQmFyXCI+PC9kaXY+XHJcblx0XHQ8L2Rpdj5cclxuXHQ8L2Rpdj5cclxuPC9kaXY+XHJcbiAgKVxyXG59XHJcblxyXG5leHBvcnQgZGVmYXVsdCBBcHBcclxuIl0sInNvdXJjZVJvb3QiOiIifQ==

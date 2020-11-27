@@ -3,13 +3,13 @@ import "./App.module.css";
 function App() {
   return (
     
-    <div class="mainDiv">
+    <div className="mainDiv">
       
-	<div class="innerDiv">
+	<div className="innerDiv">
   <h2>Almost there .. Stay tuned</h2>
 
-		<div class="bar">
-			<div class="mainBar"></div>
+		<div className="bar">
+			<div className="mainBar"></div>
 		</div>
 	</div>
 </div>
