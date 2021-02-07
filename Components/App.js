@@ -8,7 +8,7 @@ function App() {
         hour = minute * 60,
         day = hour * 24;
 
-      let birthday = "Jan 20, 2021 00:00:00",
+      let birthday = "Jan 30, 2021 00:00:00",
         countDown = new Date(birthday).getTime(),
         x = setInterval(function () {
           let now = new Date().getTime(),
